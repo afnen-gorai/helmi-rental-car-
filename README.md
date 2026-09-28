@@ -1,4 +1,4 @@
-# Halouma Travel — location de voitures
+# helmi Travel — location de voitures
 
 Application de location de voitures avec une interface React/Vite, une API Node.js/Express et une base de données MySQL.
 
