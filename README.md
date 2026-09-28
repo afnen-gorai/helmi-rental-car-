@@ -2,6 +2,8 @@
 
 Application de location de voitures avec une interface React/Vite, une API Node.js/Express et une base de données MySQL.
 
+A car rental platform built with React, Vite, Node.js, Express, and MySQL. It includes car listings, reservations, user authentication, and an admin panel.
+
 ## Prérequis
 
 - Node.js et npm
